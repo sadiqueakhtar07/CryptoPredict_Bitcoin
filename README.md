@@ -76,11 +76,6 @@ This project is ideal for:
 
 ---
 
-### 🏷️ Author
-**Your Name**  
-💻 *Data Science | Machine Learning | AI Enthusiast*  
-📧 *[your.email@example.com]*  
-
 ---
 
 ### ⭐ Contribute
